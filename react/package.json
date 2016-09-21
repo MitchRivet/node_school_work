@@ -1,0 +1,19 @@
+{
+  "name": "node-school-react",
+  "version": "1.0.0",
+  "description": "learning the fundamentals of reactjs through nodeschool questions. just a basic app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Mitch Rivet",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-react-views": "^0.9.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
